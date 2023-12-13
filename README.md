@@ -1,5 +1,5 @@
-# python-matplotlib-challenge
- Pharmaceutical Company Data Analysis & Visualization
+# Squamous Cell Carcinoma (SCC) Treatment Analysis
+ Pharmaceutical Squamous Cell Carcinoma (SCC) Treatment Analysis & Visualization
 
 # PyCity Schools Analysis
 
